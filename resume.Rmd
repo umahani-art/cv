@@ -142,14 +142,6 @@ Selected Positions {data-icon=suitcase}
 position_data %>% print_section('positions')
 ```
 
-Selected Writing {data-icon=newspaper}
---------------------------------------------------------------------------------
 
-```{r}
-w <- dplyr::filter(position_data, section == "writings")
-if (nrow(w) > 0) {
-  w %>% print_section("writings")
-}
-```
 
 
