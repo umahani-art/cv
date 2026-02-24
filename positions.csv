@@ -1,2 +1,3 @@
 section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
-industry_positions,TRUE,Founder,PORSI F&B Startup,Jakarta Indonesia,2023,Present,Built and operated a neighborhood food brand focused on quality and efficiency,Managed budgeting supplier contracts and team supervision,Applied analytics to optimize pricing and inventory control
+education,TRUE,MPA (Public Policy),Arizona State University,"Tempe, AZ",2023,2025,"Relevant coursework: Policy Analysis; Data Analytics; Program Evaluation",,
+industry_positions,TRUE,Founder,PORSI (F&B Startup),"Cipete, South Jakarta",2023,Present,"Built and operated a neighborhood food brand focused on quality and efficiency","Developed simple tracking for sales and inventory optimization","Led daily operations including budgeting and supplier management"
